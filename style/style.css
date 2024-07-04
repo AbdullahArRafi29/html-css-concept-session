@@ -7,7 +7,7 @@
 
 
 h1{
-    color:red;
+    color:white;
     font-style: italic;
     font-weight: lighter;
     font-family:  "Eczar", serif;
@@ -20,7 +20,8 @@ h1{
 #heading-parent{
     /* background-color: rgb(73, 28, 11); */
     /* background-image: linear-gradient(45deg, black, blue); */
-    background-image: url(https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fHww), linear-gradient(0deg, transparent, yellow);
+    /* background-image: url(https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y29kaW5nfGVufDB8fDB8fHww), linear-gradient(0deg, transparent, yellow); */
+    background-image: url( ../Srabony\ official.jpg) ,linear-gradient(0deg, transparent, yellow);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
